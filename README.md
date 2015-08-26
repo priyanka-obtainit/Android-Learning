@@ -1,2 +1,2 @@
 # Android-Learning
-This is Android learing repo.
+This is Android repo.
